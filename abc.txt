@@ -1,15 +1,25 @@
 # initialize git
 git init 
 
+# git global configuration
+git config --global user.name "Your Name"
+git config --global user.email "your_email@example.com"
+
 # add files and folder to git repo
-git add abc.txt         [add specfied file]
+git add abc.txt         [add specified file]
 git add .               [add multiple files]
 
 # commit
 git commit -m "message"
 
-# git global configuration
-git config --global user.name "Your Name"
-git config --global user.email "your_email@example.com"
+# remove added file from git
+git rm --cached file_name
+
+# view the all commits 
+git log
+
+# view current status of folder
+git status
 
 # create new file, insert some data and add, commit to git
+# git initialize in ashar folder, add, commit 
