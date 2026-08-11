@@ -4,3 +4,6 @@ git init
 # add files and folder to git repo
 git add abc.txt         [add specfied file]
 git add .               [add multiple files]
+
+# commit
+git commit -m "message"
