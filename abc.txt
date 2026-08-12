@@ -37,6 +37,9 @@ git switch branch_name
 # merge branches
 git merge branch_name
 
+# successfully added the branch nischal and the file "Nischal.txt".
+
+
 # check remote connection 
 git remote --v
 
