@@ -37,7 +37,7 @@ git switch branch_name
 # merge branches
 git merge branch_name
 
-# successfully added the branch nischal and the file "Nischal.txt".
+
 
 
 # check remote connection 
@@ -56,3 +56,6 @@ git push origin branch_name
 
 # login branch github
 this is logput branch
+
+
+# successfully added the branch nischal and the file "Nischal.txt".
